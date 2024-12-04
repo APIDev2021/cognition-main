@@ -34297,15 +34297,15 @@
                         children: [(0, zp.jsx)(Yp, {
                             onClick: function() {
                                 var e;
-                                return null === (e = window.open("https://Cognition.Ai", "_blank")) || void 0 === e ? void 0 : e.focus()
+                                return null === (e = window.open("https://x.com/cognitionai_art", "_blank")) || void 0 === e ? void 0 : e.focus()
                             },
-                            children: "DAPP"
+                            children: "TWITTER"
                         }), (0, zp.jsx)(Yp, {
                             onClick: function() {
                                 var e;
-                                return null === (e = window.open("https://www.alphabot.app/neura-adanede", "_blank")) || void 0 === e ? void 0 : e.focus()
+                                return null === (e = window.open("https://t.me/CognitionAI_art", "_blank")) || void 0 === e ? void 0 : e.focus()
                             },
-                            children: "Apply for wl"
+                            children: "TELEGRAM"
                         })]
                     })]
                 })
