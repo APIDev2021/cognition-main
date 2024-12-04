@@ -30786,7 +30786,7 @@
                                 directContent: !0,
                                 onClick: function() {
                                     var e;
-                                    null === (e = window.open("https://twitter.com/ai_cogni", "_blank")) || void 0 === e || e.focus()
+                                    null === (e = window.open("https://x.com/cognitionai_art", "_blank")) || void 0 === e || e.focus()
                                 },
                                 children: (0, zp.jsx)("svg", {
                                     width: "34",
@@ -30803,7 +30803,7 @@
                                 directContent: !0,
                                 onClick: function() {
                                     var e;
-                                    null === (e = window.open("https://t.me/CognitionAI", "_blank")) || void 0 === e || e.focus()
+                                    null === (e = window.open("https://t.me/CognitionAI_art", "_blank")) || void 0 === e || e.focus()
                                 },
                                 children: (0, zp.jsx)("svg", {
                                     width: "34",
