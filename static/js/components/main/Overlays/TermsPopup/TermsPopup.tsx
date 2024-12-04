@@ -33,9 +33,9 @@ export function TermsPopup() {
                         these Terms in full.
                     </p>
                     <p>
-                        The Website hosts a collection of NFTs (digital works of art) running on the Ethereum
+                        The Website hosts a collection of NFTs (digital works of art) running on the Solana
                         blockchain.
-                        Users are solely responsible for the security of their private Ethereum wallets, including Users
+                        Users are solely responsible for the security of their private Solana wallets, including Users
                         are solely responsible for managing their wallets, as well as verifying any transactions and
                         smart contracts entered into on the Website. The Website is only an aggregator through which
                         users can exchange NFTs, the Company does not bear any responsibility for transactions, smart
@@ -58,7 +58,7 @@ export function TermsPopup() {
                         <li>
                             After making an NFT purchase, you become the owner of the NFT and, accordingly, the owner of
                             the digital work of art. The transfer of ownership of NFTs is entirely done through a smart
-                            contract and the Ethereum network, we cannot influence the ownership of any NFT in any way.
+                            contract and the Solana network, we cannot influence the ownership of any NFT in any way.
                         </li>
                         <li>
                             Personal Use. If you comply with the Terms in good faith, the company grants you a
@@ -105,8 +105,8 @@ export function TermsPopup() {
                             connecting to Services through your MetaMask digital wallet or using WalletConnect protocol.
                             Linking a Digital Wallet to the Services is necessary in order to be able to buy, store and
                             make transactions using the Services, as well as to connect your NFT to the Services. When
-                            making a purchase, there are Ethereum network fees that are set and calculated by the
-                            Ethereum network itself at the time of purchase. The assets stored in your Digital Wallet
+                            making a purchase, there are Solana network fees that are set and calculated by the
+                            Solana network itself at the time of purchase. The assets stored in your Digital Wallet
                             are owned and controlled exclusively by you. Digital wallets are not affiliated with us, are
                             not supported by us, are not controlled by us and are not affiliated with us. We may not be
                             able to help you recover the assets stored in your Digital Wallet because they are not under

@@ -34475,7 +34475,7 @@
                     content: "Final minting date is TBA"
                 }, {
                     title: "what blockchain is used",
-                    content: "Cognition  is working on Ethereum"
+                    content: "Cognition  is working on Solana"
                 }, {
                     title: "when will all androids and modules be released?",
                     content: "All Androids and Modules will be released gradually, with each release announced on our socials and you will be able to find them on the website."
@@ -35579,7 +35579,7 @@
                             }), (0, zp.jsx)("p", {
                                 children: "\xabYou\xbb and \xabYour\xbb in these Terms means you as a User. If you are using the Service on behalf of a legal entity or individual entrepreneur, you warrant that you are a legal representative with all necessary powers, and you, on behalf of the company or individual entrepreneur, agree to these Terms in full."
                             }), (0, zp.jsx)("p", {
-                                children: "The Website hosts a collection of NFTs (digital works of art) running on the Ethereum blockchain. Users are solely responsible for the security of their private Ethereum wallets, including Users are solely responsible for managing their wallets, as well as verifying any transactions and smart contracts entered into on the Website. The Website is only an aggregator through which users can exchange NFTs, the Company does not bear any responsibility for transactions, smart contracts carried out by Users using the Site"
+                                children: "The Website hosts a collection of NFTs (digital works of art) running on the Solana blockchain. Users are solely responsible for the security of their private Solana wallets, including Users are solely responsible for managing their wallets, as well as verifying any transactions and smart contracts entered into on the Website. The Website is only an aggregator through which users can exchange NFTs, the Company does not bear any responsibility for transactions, smart contracts carried out by Users using the Site"
                             }), (0, zp.jsx)("p", {
                                 children: "These Terms contain important information about the basic rights and obligations of Users. Please read these Terms carefully before using the Website. We warn you that by starting to use the Website you agree to these Terms, accepting them in full. If you do not agree to the Terms or do not understand them, please stop using the Website."
                             }), (0, zp.jsx)("p", {
@@ -35589,7 +35589,7 @@
                                 children: "OWNERSHIP"
                             }), (0, zp.jsxs)("ul", {
                                 children: [(0, zp.jsx)("li", {
-                                    children: "After making an NFT purchase, you become the owner of the NFT and, accordingly, the owner of the digital work of art. The transfer of ownership of NFTs is entirely done through a smart contract and the Ethereum network, we cannot influence the ownership of any NFT in any way."
+                                    children: "After making an NFT purchase, you become the owner of the NFT and, accordingly, the owner of the digital work of art. The transfer of ownership of NFTs is entirely done through a smart contract and the Solana network, we cannot influence the ownership of any NFT in any way."
                                 }), (0, zp.jsxs)("li", {
                                     children: ["Personal Use. If you comply with the Terms in good faith, the company grants you a royalty-free license to use the NFT purchased by you directly for the following purposes:", (0, zp.jsxs)("ul", {
                                         children: [(0, zp.jsx)("li", {
@@ -35614,7 +35614,7 @@
                                 children: "YOUR USER ACCOUNT AND ACCOUNT SECURITY"
                             }), (0, zp.jsxs)("ul", {
                                 children: [(0, zp.jsx)("li", {
-                                    children: "You need to register an account to access our Services. Registration on our Website means connecting to Services through your MetaMask digital wallet or using WalletConnect protocol. Linking a Digital Wallet to the Services is necessary in order to be able to buy, store and make transactions using the Services, as well as to connect your NFT to the Services. When making a purchase, there are Ethereum network fees that are set and calculated by the Ethereum network itself at the time of purchase. The assets stored in your Digital Wallet are owned and controlled exclusively by you. Digital wallets are not affiliated with us, are not supported by us, are not controlled by us and are not affiliated with us. We may not be able to help you recover the assets stored in your Digital Wallet because they are not under your control. We do not bear any responsibility to you in connection with your use of a digital wallet and do not make any representations or guarantees regarding how the Services will work with any particular digital wallet. The secret keys, credentials, passwords, initial phrases or secret recovery phrases necessary to decrypt or gain access to the digital wallet are stored exclusively by you, not by us. If you decide to transfer goods from one digital wallet to another, such transfers will take place on a public blockchain, and we do not accept any responsibility for any such transfer, including any loss, data corruption or other negative consequences that may arise for your Offers, digital wallets or other assets when attempting to transfer assets between digital wallets. We reserve the right, with or without prior notice, at our sole and complete discretion, to terminate, modify or restrict the operation of any Digital Wallet with the Services. You represent and warrant that you are the rightful owner of any Digital Wallet and that you use this Digital Wallet in accordance with the terms and conditions of the respective digital wallet provider. If you have any problems with your digital wallet, contact your digital wallet service provider."
+                                    children: "You need to register an account to access our Services. Registration on our Website means connecting to Services through your MetaMask digital wallet or using WalletConnect protocol. Linking a Digital Wallet to the Services is necessary in order to be able to buy, store and make transactions using the Services, as well as to connect your NFT to the Services. When making a purchase, there are Solana network fees that are set and calculated by the Solana network itself at the time of purchase. The assets stored in your Digital Wallet are owned and controlled exclusively by you. Digital wallets are not affiliated with us, are not supported by us, are not controlled by us and are not affiliated with us. We may not be able to help you recover the assets stored in your Digital Wallet because they are not under your control. We do not bear any responsibility to you in connection with your use of a digital wallet and do not make any representations or guarantees regarding how the Services will work with any particular digital wallet. The secret keys, credentials, passwords, initial phrases or secret recovery phrases necessary to decrypt or gain access to the digital wallet are stored exclusively by you, not by us. If you decide to transfer goods from one digital wallet to another, such transfers will take place on a public blockchain, and we do not accept any responsibility for any such transfer, including any loss, data corruption or other negative consequences that may arise for your Offers, digital wallets or other assets when attempting to transfer assets between digital wallets. We reserve the right, with or without prior notice, at our sole and complete discretion, to terminate, modify or restrict the operation of any Digital Wallet with the Services. You represent and warrant that you are the rightful owner of any Digital Wallet and that you use this Digital Wallet in accordance with the terms and conditions of the respective digital wallet provider. If you have any problems with your digital wallet, contact your digital wallet service provider."
                                 }), (0, zp.jsxs)("li", {
                                     children: [" ", "You declare that only you have access to the account you have registered. You guarantee that you will not grant access to your account to third parties without our prior written consent."]
                                 }), (0, zp.jsx)("li", {
@@ -36464,7 +36464,10 @@
                                     }))
                                 }), 2e3)
                             }
-                        }), (0, zp.jsx)("div", {
+                        }),
+                        
+
+                        (0, zp.jsx)("div", {
                             className: "sound-message",
                             children: (0, zp.jsxs)("div", {
                                 className: "sound-message__wrap",
@@ -36481,10 +36484,39 @@
                                         },
                                         children: "JOIN THE FUTURE"
                                     })
+                                }),
+                                (0, zp.jsx)("div", {
+                                    className: "buttons",
+                                    children: (0, zp.jsx)(Yp,{
+                                        directContent: !0,
+                                        onClick: function() {
+                                            var e;
+                                            null === (e = window.open("https://x.com/cognitionai_art", "_blank")) || void 0 === e || e.focus()
+                                        },
+                                        children: "TWITTER"
+                                    })
+                                }),
+                                (0, zp.jsx)("div", {
+                                    className: "buttons",
+                                    children: (0, zp.jsx)(Yp,{
+                                        directContent: !0,
+                                        onClick: function() {
+                                            var e;
+                                            null === (e = window.open("https://t.me/CognitionAI_art", "_blank")) || void 0 === e || e.focus()
+                                        },
+                                        children: "TELEGRAM"
+                                    })
                                 })]
+                                
                             })
                         })]
-                    }), (0, zp.jsx)("div", {
+                    }), 
+                    
+                    
+                    
+                    
+                    
+                    (0, zp.jsx)("div", {
                         className: Xp("ring", !g && "hidden"),
                         children: (0, zp.jsxs)("div", {
                             className: "wrapper",
@@ -36525,7 +36557,13 @@
                                 })
                             })]
                         })
-                    }), (0, zp.jsx)("div", {
+                    }),
+                    
+                    
+                    
+                    
+                    
+                    (0, zp.jsx)("div", {
                         className: Xp("no-sound", g && "hidden"),
                         children: (0, zp.jsx)("div", {
                             className: "wrapper",
